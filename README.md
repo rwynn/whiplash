@@ -51,9 +51,9 @@ furiously send events from the mongodb oplog to all your clients using SSE
 
 	go run main.go
 
-	Here is an example of what you can do
+Here is an example of what you can do
 
-	Paste the following into a file called index.html in the directory your specified above
+Paste the following into a file called index.html in the directory your specified above
 
 	<html>
 	<head>
@@ -145,9 +145,9 @@ furiously send events from the mongodb oplog to all your clients using SSE
 	</body>
 	</html>
 
-	Now load [http://localhost:9080](http://localhost:9080)
+Now load [http://localhost:9080](http://localhost:9080)
 
-	Now load it in another browser window
+Now load it in another browser window
 
 ### This is not very useful. I just see a blank pages ###
 
